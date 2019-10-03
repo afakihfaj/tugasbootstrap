@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.kanan1{
+    background:green;
+}
+.kiri1{
+    background:magenta;
+}
+.mid1{
+    background: aqua;
+}
+.about{
+    background: blanchedalmond;
+}
+
+.jumbotron{
+    background: transparent;
+}
+.jarak {
+    margin: 100px;
+}
+.carousel-caption{
+    color:springgreen;
+}
+/*.navbar-light{
+    background-color: bisque;
+}*/
+.porm{
+    background-color: beige;
+    padding-bottom: 20px;
+}
+.sleder{
+    background:transparent;
+}
+.bawah{
+    margin-top:50px;
+    
+}
+.copyright{
+    text-align: right;
+    margin-top: -25px;
+}
+.pagenext{
+    margin-top: 10px;
+}
+.leftt{
+    margin-left: 25px;
+}
+
